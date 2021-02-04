@@ -2,7 +2,7 @@
 * React as front-end
 * PHP version ^7.3
 * Composer installed
-* Laravel version 8
+* Laravel 8
 * add .env file to root directory
 * DB - mySQL
 
@@ -28,7 +28,7 @@
             ![RESULT](https://github.com/Oscar-Sherelis/laravel_react_project/blob/master/images_for_readme/result.png)
     * / - home directory.
     ![REACT_RESULT](https://github.com/Oscar-Sherelis/laravel_react_project/blob/master/images_for_readme/react_result.png)
-    * Data fetched and loaded in resources/js/components/Student file
+    * Data fetched and loaded in resources/js/components/Students file
     ![FETCH_DATA](https://github.com/Oscar-Sherelis/laravel_react_project/blob/master/images_for_readme/fetch_data.png)
 
 ## License
