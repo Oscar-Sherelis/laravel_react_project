@@ -10,6 +10,7 @@
 * npm i
 
 ## Run project
+* make migration - "php artisan migrate"
 * php artisan serve
 * in other command line npm run watch
 
