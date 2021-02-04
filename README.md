@@ -21,15 +21,15 @@
     * In this route loaded data by "StudentController" "api" function
         * app/Http/StudentController
             * $student query gets - student id, student first and last name, university name. From student and university table
-            ![FIRST_STUDENT]()
+            ![FIRST_STUDENT](https://github.com/Oscar-Sherelis/laravel_react_project/blob/master/images_for_readme/first_student.png)
             * $marks query gets - subject name, mark, student id. From subject, mark and student table
-            ![MARK]()
-            * After connected $student and $marks into one. Resut api/students
-            ![RESULT]()
+            ![MARK](https://github.com/Oscar-Sherelis/laravel_react_project/blob/master/images_for_readme/marks.png)
+            * After connected $student and $marks into one. Result api/students in Firefox
+            ![RESULT](https://github.com/Oscar-Sherelis/laravel_react_project/blob/master/images_for_readme/result.png)
     * / - home directory.
-    ![REACT_RESULT]()
+    ![REACT_RESULT](https://github.com/Oscar-Sherelis/laravel_react_project/blob/master/images_for_readme/react_result.png)
     * Data fetched and loaded in resources/js/components/Student file
-    ![FETCH_DATA]()
+    ![FETCH_DATA](https://github.com/Oscar-Sherelis/laravel_react_project/blob/master/images_for_readme/fetch_data.png)
 
 ## License
 
